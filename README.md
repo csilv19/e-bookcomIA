@@ -21,7 +21,7 @@ Proporcionar um material didático e de fácil compreensão sobre a LGPD, estuda
 
 Você pode acessar o e-book gratuitamente através do link abaixo:
 
-[Download do E-book](https://github.com/csilv19/e-bookcomIA/ebookLGPD.pdf)
+[Download do E-book](https://github.com/csilv19/e-bookcomIA/blob/main/ebookLGPD.pdf)
 
 ## 🤖 Inteligência Artificial
 
