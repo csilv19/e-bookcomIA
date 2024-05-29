@@ -30,7 +30,6 @@ Este e-book foi gerado utilizando um modelo avançado de processamento de lingua
 ## 🌟 Destaques
 
 - **Completamente Automatizado**: Todo o conteúdo foi criado por IA.
-- **Conteúdo Relevante**: Informações atualizadas com as últimas mudanças na legislação.
 - **Acessível**: Linguagem clara e objetiva para facilitar a compreensão.
 
 ## 📫 Contato
